@@ -1,1 +1,1 @@
-This is  project about data Create, read, update and delete operations using Javascript
+In this JavaScript project, I focused on implementing CRUD operations (Create, Read, Update, Delete) for data management. Utilizing JavaScript, I developed functionalities to create new data entries, retrieve existing data, update data records, and delete entries as needed 
